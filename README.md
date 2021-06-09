@@ -5,4 +5,4 @@ This application can be used in any Educational Institution for Result Computati
   <l>Technologies used-Neatbens,Mysql Workbench. Laguages used-JAVA,SQL.</l>
 </ul>
 
-<p>Just repalce your databse url in all files ,you can also use Ctrl+Shift+H to find replace all username and passwords all the url for remain same</p>
+<p>Just repalce your connectionurl in all files ,you can also use Ctrl+Shift+H to find and replace all username and passwords as the connection url generally remain remain same</p>
